@@ -1,3 +1,5 @@
 .DS_Store
 *.log
 .env
+*.pem
+github-oidc-trust-policy.json
